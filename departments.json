@@ -1,0 +1,250 @@
+{
+  "dsw": {
+    "name": "Department of Student Welfare (DSW)",
+    "handles": [
+      "student welfare",
+      "discipline issues",
+      "ragging complaint",
+      "student clubs",
+      "event permission",
+      "cultural activities",
+      "student counselling"
+    ],
+    "keywords": [
+      "dsw",
+      "ragging",
+      "discipline",
+      "clubs",
+      "events",
+      "cultural",
+      "welfare",
+      "permission"
+    ],
+    "response": "This issue is handled by the Department of Student Welfare (DSW). Please visit the DSW office or contact the student welfare team."
+  },
+
+  "egovernance": {
+    "name": "E-Governance / IT Support",
+    "handles": [
+      "cuims issue",
+      "lms problem",
+      "wifi issue",
+      "email issue",
+      "id card barcode",
+      "technical issue",
+      "attendance device problem"
+    ],
+    "keywords": [
+      "cuims",
+      "lms",
+      "blackboard",
+      "wifi",
+      "internet",
+      "email",
+      "cumail",
+      "technical",
+      "it issue",
+      "portal"
+    ],
+    "response": "This issue is handled by the E-Governance Department. Please contact IT Support or visit the E-Governance office."
+  },
+
+  "registrar": {
+    "name": "Registrar Office",
+    "handles": [
+      "migration certificate",
+      "bonafide certificate approval",
+      "transcript",
+      "degree collection",
+      "name correction",
+      "uid correction"
+    ],
+    "keywords": [
+      "migration",
+      "bonafide",
+      "transcript",
+      "degree",
+      "name correction",
+      "uid correction",
+      "certificate"
+    ],
+    "response": "This task is handled by the Registrar Office. Please visit the Registrar section for further processing."
+  },
+
+  "examcell": {
+    "name": "Examination Cell",
+    "handles": [
+      "reappear exam",
+      "admit card correction",
+      "exam schedule issues",
+      "internal marks dispute",
+      "seating plan issue"
+    ],
+    "keywords": [
+      "reappear",
+      "admit card",
+      "exam",
+      "marks",
+      "internal marks",
+      "seating plan",
+      "exam cell"
+    ],
+    "response": "This is handled by the Examination Cell. Please contact the exam cell for official assistance."
+  },
+
+  "accounts": {
+    "name": "Accounts & Finance Department",
+    "handles": [
+      "fee payment",
+      "fee receipt",
+      "refund",
+      "loan letter",
+      "scholarship disbursement"
+    ],
+    "keywords": [
+      "fees",
+      "payment",
+      "receipt",
+      "refund",
+      "loan",
+      "finance",
+      "accounts"
+    ],
+    "response": "This task is handled by the Accounts/Finance Department. Please visit the Accounts section for help."
+  },
+
+  "hostel": {
+    "name": "Hostel Office / Hostel Warden",
+    "handles": [
+      "room change",
+      "outpass",
+      "mess issue",
+      "hostel fee",
+      "hostel attendance"
+    ],
+    "keywords": [
+      "hostel",
+      "room change",
+      "outpass",
+      "mess",
+      "warden",
+      "hostel fee"
+    ],
+    "response": "This issue is managed by the Hostel Office or your respective Hostel Warden."
+  },
+
+  "transport": {
+    "name": "Transport Department",
+    "handles": [
+      "bus pass",
+      "transport fee",
+      "bus route",
+      "bus timing",
+      "lost item in bus"
+    ],
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "bus pass",
+      "bus timing",
+      "transport fee"
+    ],
+    "response": "This matter is handled by the Transport Office. Please reach out to the Transport Department."
+  },
+
+  "tpc": {
+    "name": "Training & Placement Cell (TPC)",
+    "handles": [
+      "internship approval",
+      "placement drive",
+      "resume workshop",
+      "company criteria",
+      "offer letter submission"
+    ],
+    "keywords": [
+      "placement",
+      "tpc",
+      "internship",
+      "offer letter",
+      "resume",
+      "jobs"
+    ],
+    "response": "This is handled by the Training & Placement Cell (TPC). Visit the TPC office or check CUIMS → Placements."
+  },
+
+  "department": {
+    "name": "Academic Department / HOD / Coordinator",
+    "handles": [
+      "attendance dispute",
+      "course registration",
+      "lab batch change",
+      "project allocation",
+      "academic complaints"
+    ],
+    "keywords": [
+      "attendance",
+      "hod",
+      "coordinator",
+      "course registration",
+      "lab batch",
+      "project",
+      "section"
+    ],
+    "response": "This is handled by your Academic Department. Please contact your coordinator or HOD."
+  },
+
+  "studentservices": {
+    "name": "Student Services Center",
+    "handles": [
+      "id card printing",
+      "general certificates",
+      "transport queries",
+      "fee enquiries",
+      "general student support"
+    ],
+    "keywords": [
+      "id card",
+      "student services",
+      "certificate",
+      "general help",
+      "helpdesk"
+    ],
+    "response": "This is handled by the Student Services Center. Please visit the Student Services Office for support."
+  },
+
+  "medical": {
+    "name": "Medical Centre",
+    "handles": [
+      "first aid",
+      "medical emergency",
+      "ambulance",
+      "sick leave"
+    ],
+    "keywords": [
+      "medical",
+      "doctor",
+      "clinic",
+      "ambulance",
+      "health"
+    ],
+    "response": "This is handled by the CU Medical Centre. For emergencies, call +91-160-3051002."
+  },
+
+  "library": {
+    "name": "Library Department",
+    "handles": [
+      "book issue",
+      "digital library access",
+      "reference material"
+    ],
+    "keywords": [
+      "library",
+      "books",
+      "issue book",
+      "reference",
+      "digital library"
+    ],
+    "response": "This matter belongs to the Library Department. Please visit the CU Library help desk."
+  }
+}

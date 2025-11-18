@@ -1,0 +1,97 @@
+{
+  "what is cuims": "CUIMS is the official Chandigarh University portal for academics, attendance, results, timetable, and student services.",
+  "how to login to cuims": "Use your UID or registered email and password to log in at https://uims.cuchd.in.",
+  "forgot cuims password": "Click 'Forgot Password' on the CUIMS login page and follow instructions sent to your registered email.",
+  "cuims not opening": "Clear browser cache or try using incognito mode. If problem continues, contact IT helpdesk.",
+
+  "how to check attendance": "Log in to CUIMS → Academics → Attendance to view course-wise attendance.",
+  "how to check internal marks": "CUIMS → Examination → Internal Evaluation.",
+  "attendance short kya kare": "Talk to your course incharge or coordinator. Attend all upcoming classes.",
+
+  "what is blackboard": "Blackboard is CU’s Learning Management System for online classes, notes, assignments, and quizzes.",
+  "how to access blackboard": "Visit https://lms.cuchd.in or open Blackboard through CUIMS.",
+  "blackboard not loading": "Clear cache, refresh the page, or try another browser.",
+
+  "how to check timetable": "Open CUIMS → Academics → Timetable.",
+  "how to change section": "Section change is not generally allowed; contact department HOD.",
+
+  "exam schedule kaise dekhe": "CUIMS → Examination → Exam Schedule.",
+  "how to download admit card": "CUIMS → Examination → Admit Card → Download.",
+  "how to check result": "CUIMS → Examination → Results.",
+  "how to register for reappear exam": "CUIMS → Examination → Reappear Form → Fill form → Pay online.",
+  "reappear exam kaise apply kare": "CUIMS → Examination → Reappear Form.",
+
+  "what are cu fees": "CUIMS → Accounts → Fee Details.",
+  "how to pay fees": "CUIMS → Accounts → Pay Fees Online using UPI, card, or netbanking.",
+  "late fee penalty cu": "Late fee is charged if payment is not done before the due date.",
+
+  "what is hostel helpline number": "+91-160-3051003",
+  "how to change hostel room": "Apply via CUIMS → Hostel Management or contact warden.",
+  "how to apply for leave": "CUIMS → Leave Application → Fill form.",
+  "hostel outpass kaise apply kare": "CUIMS → Hostel Outpass and wait for approval.",
+  "hostel timings": "Usually 7 PM (girls) and 10 PM (boys) — varies by block.",
+
+  "what to do if id card is lost": "Report to admin office and apply for duplicate via CUIMS.",
+  "how to get id card": "ID card is given after admission. Duplicate via CUIMS → Student Services.",
+  "how to raise a complaint": "CUIMS → Student Services → Feedback & Complaint.",
+
+  "how to get bonafide certificate": "CUIMS → Certificates → Apply for Bonafide Certificate.",
+  "how to apply for migration certificate": "CUIMS → Certificates → Migration Certificate.",
+
+  "what is the helpline number for transport": "+91-160-3051005",
+  "how to apply for bus service": "CUIMS → Transport Services → Apply for Bus Pass.",
+  "bus routes and timings": "Available under Transport section on CUIMS.",
+  "cu bus tracking": "CUIMS → Transport → Bus Tracking (if enabled).",
+
+  "placement record of cu": "900+ companies visit with packages up to ₹50 LPA+.",
+  "how to contact placement cell": "Email: placement@cuchd.in",
+  "how to apply for internship": "CUIMS → Internships → Apply or Upload Offer Letter.",
+
+  "cu official website": "https://www.cuchd.in",
+  "where can i see academic calendar": "CUIMS → Academics → Academic Calendar.",
+  "cu holidays list": "Check Academic Calendar in CUIMS.",
+
+  "cu wifi issue": "Contact IT helpdesk or raise a complaint in CUIMS.",
+  "cu email login": "Your CU email is UID@cumail.in.",
+
+  "contact faculty": "CUIMS → Academics → Faculty Directory.",
+  "open elective kaise choose kare": "CUIMS → Course Registration during elective window.",
+  "add drop request": "Available only during the add/drop window.",
+
+  "cu scholarship details": "Scholarships available for CUCET rank, sports, NCC, defense, alumni, etc.",
+  "cucet kya hai": "CUCET is CU's Common Entrance Test for scholarships.",
+
+  "hostel fee details": "CUIMS → Hostel Management → Hostel Fee.",
+  "mess menu cu": "Mess menu available on hostel notice boards and CUIMS.",
+
+  "ragging complaint": "Call +91-160-3051003 or email anti-ragging@cumail.in.",
+  "security emergency number": "+91-160-3051002",
+
+  "sports complex timing": "Usually open 6 AM – 9 PM.",
+  "gym facility cu": "Gym available in several hostel blocks.",
+
+  "clubs and societies": "Dance, music, coding, drama, robotics, sports clubs available.",
+  "how to join cu clubs": "Attend club orientation or check CUIMS events.",
+
+  "fests in cu": "CU Fest, Sports Fiesta, Innovation Fest, Freshers, Departmental fests.",
+  "freshers party": "Usually organised by departments in the first weeks.",
+
+  "cu medical facility": "Medical Centre with ambulance is available.",
+  "ambulance number": "+91-160-3051002",
+
+  "block locations": "Refer to CU campus map or helpdesk.",
+  "nearest atm": "ATMs near Block A and Main Gate.",
+
+  "weekend classes": "Sometimes labs or extra classes are scheduled.",
+  "placement training": "Soft skills and aptitude training provided by CU.",
+  "resume making support": "Placement cell conducts resume-building workshops.",
+
+  "cu hostel rules": "Maintain attendance, use outpass, no loud noise, follow timings.",
+  "how to update phone number": "CUIMS → Profile → Edit Information.",
+  "change email id": "CUIMS → Profile → Edit Information.",
+
+  "cu convocation details": "Declared on CU website and CUIMS.",
+  "exam rules": "Carry ID card, admit card, follow seating plan.",
+  "why attendance not updated": "Faculty may update attendance weekly.",
+  "register for workshops": "CUIMS → Events / Workshops section."
+}
